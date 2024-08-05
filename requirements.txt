@@ -1,0 +1,6 @@
+langchain_core
+langchain_community
+pypdf
+streamlit
+bs4
+langchain-huggingface
