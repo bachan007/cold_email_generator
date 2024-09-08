@@ -1,0 +1,28 @@
+Based on the provided information, here is a detailed summary of the candidate's professional profile:
+
+**Candidate’s Name:** Bachan Nigam
+**Industry:** Data Engineering, specifically in Azure and E-commerce data management
+**Key Skills:** Python, R, PySpark, Azure Functions, Azure Databricks, Azure Data Factory, Azure Active Directory, ADLS, Azure SQL, Azure Synapse, Logic Apps, Cosmos DB, Communication, Problem-Solving, Critical Thinking, Leadership, Logical Reasoning
+**Achievements:** 
+- Reduced manual efforts by 75-80% and processing time by 90% using automated solutions for reporting accuracy and inventory management.
+- Achieved 100% record iteration using automated E-commerce order audits.
+- Demonstrated prowess in web scraping and visualization using Plotly Dash, Seaborn, and matplotlib.
+- Successfully developed and implemented Databricks pipelines for data integration and rule-based logic for raw material recommendations.
+- Utilized Azure Data Factory (ADF) for efficient data transfer and integrity across sources.
+**Current Role:** Azure Data Engineer at Tranzita Systems (Lucknow)
+**Relevant Projects:** 
+- Project: iDAS (intelligent Decision Automation System)
+  - Designed and implemented Databricks pipelines for data integration from ADLS, Azure SQL DB, SharePoint, and DataHub.
+  - Developed rule-based logic for raw material recommendations and gathered supply chain requirements through site visits.
+- Project: BRS (Branch Replenishment System)
+  - Developed robust data pipelines using PySpark on Databricks to extract, transform, and load data between Blob Storage, APIs, Delta Tables, SQL Server DB, and ADLS.
+  - Utilized Azure Data Factory (ADF) for efficient data transfer and integrity across sources.
+  - Wrote the Core Logic API to Replenish the Stock from Hub to Branches and multiple reports logic APIs using Python and deployment on Azure Functions.
+- Automated Reporting and Analysis
+  - Implemented automated solutions to enhance reporting accuracy and optimize inventory management using Azure services and Python.
+  - Generated color-coded reports comparing regular and advance orders using data from Azure Synapse and SQL DB.
+  - Automated root cause analysis for out-of-stock scenarios with Azure Functions, Logic Apps, and SMTP.
+- Web Scraping and Visualization
+  - Demonstrated prowess in web scraping by proficiently employing requests, scrapy, bs4, pandas, numpy, and pyodbc.
+  - Leveraged the capabilities of Plotly Dash, Seaborn, and matplotlib to create engaging data analysis and visualization dashboards.
+**Linkedin Profile Link:** https://www.linkedin.com/in/bachan-nigam-5187577a/
