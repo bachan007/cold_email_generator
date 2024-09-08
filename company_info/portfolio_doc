@@ -1,0 +1,71 @@
+Personal Information:
+
+Name: Bachan Nigam
+Title: Azure Data Engineer
+Phone: +917905562895
+Email: bachannigam.nigam111@gmail.com
+LinkedIn: https://www.linkedin.com/in/bachan-nigam-5187577a/
+
+Professional Summary:
+Accomplished Data Engineer at Procter & Gamble with a strong track record in managing extensive E-commerce data. Proficient in ETL operations, developing robust data pipelines, and distributing data across multiple storage platforms.
+
+Work Experience:
+
+Tranzita Systems, Lucknow—Azure Data Engineer (May 2022 - Present)
+
+Project: iDAS
+
+intelligent Decision Automation System, evaluates and recommends adjustments to raw material purchase orders based on changes in finished goods demand forecasts.
+It assists planners in determining whether to accept these recommendations, ensuring efficient decision-making.
+Roles and Responsibilities:
+
+Design and implement Databricks pipelines for data integration from ADLS, Azure SQL DB, SharePoint, and DataHub.
+Develop rule-based logic for raw material recommendations and gather supply chain requirements through site visits.
+Technologies Used: Python, Pandas, PySpark, APIs, ADF, Databricks
+
+
+Project: BRS
+Branch Replenishment System, The process used to manage and optimize the supply of goods or inventory to different branches of
+P&G distributors at India Level. Manages and optimizes the supply of goods or inventory to different branches of P&G distributors at the India level.
+
+Roles and Responsibilities:
+
+Developed robust data pipelines using PySpark on Databricks to extract, transform, and load data between Blob Storage, APIs, Delta Tables, SQL Server DB, and ADLS.
+Utilized Azure Data Factory (ADF) for efficient data transfer and integrity across sources.
+Written the Core Logic API to Replenish the Stock from Hub to Branches and multiple reports logic APIs using python and deployment on Azure Functions.
+Technologies Used: Python, Pandas, PySpark, APIs, ADF, Pyspark, CosmosDB
+
+Automated Reporting and Analysis:
+Implemented automated solutions to enhance reporting accuracy and optimize inventory management using Azure services and Python.
+Generated color-coded reports comparing regular and advance orders using data from Azure Synapse and SQL DB.
+Automated root cause analysis for out-of-stock scenarios with Azure Functions, Logic Apps, and SMTP.
+Streamlined product availability verification, reducing manual efforts by 75-80% and processing time by 90%.
+Automated E-commerce order audits using Pandas and KNIME, achieving 100% record iteration.
+Technologies: Azure Functions, Azure Synapse, SQL DB, ADLS, ADF, AAD, SQLAlchemy, Logic Apps, SMTP, Python, Pandas, openpyxl, KNIME, PySpark, Databricks
+
+Web Scraping and Visualization: Demonstrated prowess in web scraping by proficiently employing requests, scrapy, bs4, pandas,
+numpy, and pyodbc. Leveraged the capabilities of Plotly Dash, Seaborn and matplotlib to create engaging data analysis and visualization dashboards.
+
+
+Skills:
+
+Programming: Python, R, PySpark
+Cloud: Azure Functions, Azure Databricks, Azure Data Factory, Azure Active Directory, ADLS, Azure SQL, Azure Synapse, Logic Apps, Cosmos DB
+Soft Skills: Communication, Problem-Solving, Critical Thinking, Leadership, Logical Reasoning
+
+
+Other Projects/ Personal Projects:
+Cold Email Generation: The Cold Email Generator project aims to automate the creation of professional and personalized cold emails for job applications. This tool leverages natural language processing to extract relevant information from resumes and company websites, generating tailored emails that highlight the candidate's qualifications and align with the company's needs.
+The Cold Email Generator is built using Python and Streamlit, providing an interactive web interface for users to upload resumes and input company URLs. The application processes these inputs to extract key information and generate a cold email. The project utilizes various modules and techniques from the LangChain community, such as document loaders, text splitters, embeddings, and retrieval chains, to efficiently handle and analyze the provided data.
+Tools Used: langchain, Ollama, FAISS, Streamlit, Python3
+
+Yfinance Exploration: The goal of the yfinance-exploration project is to streamline the process of gathering detailed stock information, which typically requires extensive research and effort. This project automates the retrieval and compilation of stock data into a single PDF file, making it more efficient and user-friendly.
+By leveraging Python scripts and libraries, it simplifies the process of gathering and compiling stock information, providing a valuable tool for investors and analysts to make informed decisions with ease. This project exemplifies the integration of programming and finance, demonstrating a practical application of data engineering skills.
+Tools Used: yfinance, beautifulsoup4, openpyxl, pandas 
+
+
+
+
+
+
+

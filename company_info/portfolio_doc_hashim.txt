@@ -1,0 +1,28 @@
+Professional Overview:
+Mohd Hashim is an experienced and result-oriented Data Engineer with a strong background in Python, PySpark, SQL, and various Azure Data Engineering tools. He excels in developing and maintaining complex data pipelines, implementing effective ETL processes, and leveraging Power BI for insightful data visualization.
+
+Key Skills:
+
+Python, PySpark, Pandas, NumPy
+SQL, Azure Data Factory, Azure Databricks
+Azure Functions, Azure Logic Apps, Power BI
+Work Experience:
+At Tranzita Systems, Mohd Hashim has demonstrated his expertise through significant projects including end-to-end data processing pipelines for major clients such as P&G. His role involved utilizing advanced tools and technologies to enhance data processing, storage, and analysis.
+
+Highlighted Projects:
+
+IDAS (Intelligent Decision Automation System): Implemented a robust ETL workflow using Azure Data Factory and developed critical Python logic for scheduling within Azure Function App.
+Farm To Shelf, P&G Hyderabad: Spearheaded data pipeline development and interactive dashboard creation in Power BI, leading to improved operational efficiency and significant cost savings.
+Branch Replenishment System, P&G Mumbai: Achieved a high inventory forecast accuracy with advanced ETL pipelines and Python-based logic.
+On Shelf Availability (RCA), P&G Mumbai: Developed solutions for root cause analysis and efficient data storage using Azure tools.
+Shipment Dashboard, P&G Mumbai: Created an effective ETL pipeline and SQL procedures to manage shipment data.
+Achievements:
+
+Enhanced operational efficiency and achieved substantial cost savings through strategic data analysis and dashboard development.
+Career Goals:
+Mohd Hashim aims to further utilize his data engineering skills and experience to tackle challenging data problems and contribute to innovative solutions in a dynamic environment.
+
+For more information, please contact:
+
+Email: mohd.hashim.dev@gmail.com
+Phone: +91-9807389780
