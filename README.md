@@ -11,6 +11,6 @@ and activate the virtual environment
 Install the required libraries using 
 > pip install -r requirements.txt
 
-The main file here is cold_email_generator file
-run the scripts using :
+The main file here is cold_email_generator file in the folder email_generation_from_company_info.
+change the directory and run the scripts using :
 > streamlit run cold_email_generator.py
